@@ -17,25 +17,24 @@ Faculty list
   update/delete
 
 Faculty order status
-  faculty order
-  faculty pickup
-  faculty return
+ - faculty order
+ - faculty pickup
+ - faculty return
 
 
 FACULTY REPORTS
-  Master Faculty List
-
-    Master Attending File
-    w/ Hood Template File
-    No Hoods Template File
-    Guests Template File
-    Generic Template File
-    Faculty Not Attending Template File
+ - Master Faculty List
+ - Master Attending File
+ - w/ Hood Template File
+ - No Hoods Template File
+ - Guests Template File
+ - Generic Template File
+ - Faculty Not Attending Template File
 
 
 DATABASE
-  Reset
-  grad dates
+ - Reset
+ - grad dates
 
 
 
